@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tag ConvertDateTime JSF - Usando corretamente"
-description: "Solução para o problema de conversão errada gerado ao utilizarmos a tag <f:convertDateTime>"
+description: "Solução para o problema de conversão errada gerado ao utilizarmos a tag `<f:convertDateTime>`
 modified: 2014-09-22 09:38:23 -0300
 tags: [JAVA, JSF, DEVWEB]
 image:
@@ -11,7 +11,7 @@ image:
 comments: 
 share: 
 ---
-# Timezone e <f:convertDateTime>
+# Timezone e `<f:convertDateTime>`
 
 ### Tecnologias envolvidas:
 
@@ -21,7 +21,7 @@ share:
 
 ### Descrição do problema
 
-Quando utilizamos JSF, podemos receber um atributo do tipo Calendar e formatá-lo utilizando a tag <f:convertDateTime>. Porém, existe um erro comum que acontece quando deixamos de definir o parâmetro Timezone, que serve para calcular a data corretamente.
+Quando utilizamos JSF, podemos receber um atributo do tipo Calendar e formatá-lo utilizando a tag `<f:convertDateTime>`. Porém, existe um erro comum que acontece quando deixamos de definir o parâmetro Timezone, que serve para calcular a data corretamente.
 
 ### Solução
 
@@ -66,7 +66,7 @@ Logo abaixo temos o exemplo da apresentação da data na página:
 ### Conclusão
 Seguindo esses passos a sua data aparecerá com os valores corretos.
 
-Para mais detalhes sobre a tag <f:convertDateTime> e seus atributos:
+Para mais detalhes sobre a tag `<f:convertDateTime>` e seus atributos:
 
 ### Links
 
