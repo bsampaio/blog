@@ -1,22 +1,22 @@
-title:            paflopes.github.io/blog
-description:      "Um blog de tutoriais sobre programação, frameworks e coisas que facilitam a vida."
-disqus_shortname: paflopes
+title:            Bsampaio's Blog
+description:      "Um blog de tutoriais sobre programação, frameworks e tecnologias que facilitam a vida."
+disqus_shortname: bsampaio
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
 # url:              http://localhost:4000
-url:              https://paflopes.github.io/blog
+url:              https://bsampaio.github.io/blog
 
 # Owner/author information
 owner:
-  name:           Phillipe Lopes
-  avatar:         authors/paflopes.jpg
+  name:           Breno Sampaio
+  avatar:         authors/bsampaio.jpg
   bio:            "Apaixonado por tecnologia, programação e afins, e um estudante nas horas vagas :)"
-  email:          phillipe.alcantara.fonseca@gmail.com
+  email:          bsampaio@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
-  github:         paflopes
+  facebook:       bsampaio93
+  github:         bsampaio
   stackexchange:  
   linkedin:       
   instagram:      
@@ -24,7 +24,7 @@ owner:
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +PhillipeLopes
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
