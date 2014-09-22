@@ -70,9 +70,9 @@ Para mais detalhes sobre a tag <f:convertDateTime> e seus atributos:
 
 ### Links
 
-#### <a href="http://www.tutorialspoint.com">Tutorials Point</a>
+#### <a target="_blank" href="http://www.tutorialspoint.com">Tutorials Point</a>
 
-<a class="btn primary" href="http://www.tutorialspoint.com/jsf/jsf_convertdatetime_tag.htm"> Mais detalhes... </a>
+<a target="_blank" class="btn primary" href="http://www.tutorialspoint.com/jsf/jsf_convertdatetime_tag.htm"> Mais detalhes... </a>
 
-#### <a href="http://www.jsftoolbox.com/">JSF Toolbox</a>
-<a class="btn primary" href="http://www.jsftoolbox.com/documentation/help/12-TagReference/core/f_convertDateTime.html"> Mais detalhes... </a>
+#### <a target="_blank" href="http://www.jsftoolbox.com/">JSF Toolbox</a>
+<a target="_blank" class="btn primary" href="http://www.jsftoolbox.com/documentation/help/12-TagReference/core/f_convertDateTime.html"> Mais detalhes... </a>
