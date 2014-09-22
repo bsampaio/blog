@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tag ConvertDateTime JSF - Usando corretamente"
-description: "Solução para o problema de conversão errada gerado ao utilizarmos a tag `<f:convertDateTime>`
+description: "Solução para o problema de conversão errada gerado ao utilizarmos a tag `<f:convertDateTime>`"
 modified: 2014-09-22 09:38:23 -0300
 tags: [JAVA, JSF, DEVWEB]
 image:
