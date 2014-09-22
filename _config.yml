@@ -1,5 +1,5 @@
 title:            Compilou!
-description:      "Um blog de tutoriais sobre programação, frameworks e tecnologias que facilitam a vida."
+description:      "Um blog sobre programação, frameworks e tutoriais sobre tecnologia. Divirtam-se e compilem! :D"
 disqus_shortname: bsampaio
 reading_time:     true
 words_per_minute: 200
@@ -11,7 +11,7 @@ url:              https://bsampaio.github.io/blog
 owner:
   name:           Breno Sampaio
   avatar:         authors/bsampaio.jpg
-  bio:            "Apaixonado por tecnologia, programação e afins, e um estudante nas horas vagas :)"
+  bio:            "Bacharelando em Sistemas de Informação, sou apaixonado pela programação e suas tecnologias. Gosto de imaginar o aprendizado como um hobby ;)"
   email:          bsampaio@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
