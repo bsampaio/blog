@@ -1,6 +1,6 @@
 title:            Compilou!
 description:      "Um blog sobre programação, frameworks e tutoriais sobre tecnologia. Divirtam-se e compilem! :D"
-disqus_shortname: bsampaio
+disqus_shortname: compilou
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
