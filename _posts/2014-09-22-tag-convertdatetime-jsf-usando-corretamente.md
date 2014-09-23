@@ -11,7 +11,6 @@ image:
 comments: 
 share: 
 ---
-# Timezone e <f:convertDateTime>
 
 ### Tecnologias envolvidas:
 
